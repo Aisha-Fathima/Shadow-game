@@ -49,6 +49,7 @@ Play the game here: [Shadow Runner Game](https://shadow-game.vercel.app/)
 &nbsp;
 
 ![Gameplay Screenshot 2](images/ss2)
+
  ---
 ## **Future Enhancements**
 
